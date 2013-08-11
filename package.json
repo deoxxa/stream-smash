@@ -1,6 +1,6 @@
 {
   "name": "stream-smash",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Smash two object streams together, or, `select * from stream1 join stream2 on stream1.x = stream2.y`",
   "main": "index.js",
   "repository": {
