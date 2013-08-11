@@ -1,0 +1,22 @@
+{
+  "name": "stream-smash",
+  "version": "0.0.0",
+  "description": "Smash two object streams together, or, `select * from stream1 join stream2 on stream1.x = stream2.y`",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/stream-smash"
+  },
+  "keywords": [
+    "stream",
+    "smash",
+    "join",
+    "embed",
+    "correlate"
+  ],
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fksnrs.biz/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/deoxxa/stream-smash/issues"
+  }
+}
